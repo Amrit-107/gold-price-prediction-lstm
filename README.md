@@ -97,7 +97,7 @@ report.pdf       # Project report
 ## 👤 Author
 
 Amrit Behera
-B.Tech in Computer Science (AI & ML)
+B.Tech in Computer Science and Engineering (AI & ML)
 
 ---
 
